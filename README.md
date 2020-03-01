@@ -7,8 +7,10 @@ Our goal is to use PySpark to clean the data and use the ML library to do featur
 
 Contributors:
 
-Max McGaw github.com/mmcgaw182    
+Max McGaw https://github.com/mmcgaw182    
 
-Will Carruthers  github.com/wcarruthers    
+Will Carruthers  https://github.com/wcarruthers    
 
-Liam Mulcahy github.com/liamtmul
+Liam Mulcahy https://github.com/liamtmul   
+
+Matt Thomas
